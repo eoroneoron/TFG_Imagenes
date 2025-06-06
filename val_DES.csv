@@ -1,0 +1,581 @@
+Patient_Age,Patient_Sex,ID,Eye_Side,Image_Path,Diagnostic_Keywords,N,D,G,C,A,M,O,class_label
+54,Male,178,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/178_right.jpg,dry age-related macular degeneration,0,0,0,0,1,0,0,A
+62,Male,55,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/55_right.jpg,dry age-related macular degeneration,0,0,0,0,1,0,0,A
+67,Male,1196,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1196_right.jpg,dry age-related macular degeneration,0,0,0,0,1,0,0,A
+75,Male,1869,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1869_right.jpg,dry age-related macular degeneration,0,0,0,0,1,0,0,A
+50,Male,1919,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1919_right.jpg,dry age-related macular degeneration,0,0,0,0,1,0,0,A
+84,Female,1856,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1856_left.jpg,wet age-related macular degeneration,0,0,0,0,1,0,0,A
+73,Female,1846,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1846_left.jpg,dry age-related macular degeneration,0,0,0,0,1,0,0,A
+67,Female,1168,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1168_right.jpg,wet age-related macular degeneration,0,0,0,0,1,0,0,A
+66,Male,126,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/126_left.jpg,dry age-related macular degeneration,0,0,0,0,1,0,0,A
+54,Male,885,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/885_right.jpg,dry age-related macular degeneration,0,0,0,0,1,0,0,A
+55,Male,292,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/292_right.jpg,dry age-related macular degeneration,0,0,0,0,1,0,0,A
+75,Male,1869,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1869_left.jpg,dry age-related macular degeneration,0,0,0,0,1,0,0,A
+66,Male,1885,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1885_right.jpg,wet age-related macular degeneration,0,0,0,0,1,0,0,A
+54,Female,1830,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1830_right.jpg,dry age-related macular degeneration,0,0,0,0,1,0,0,A
+66,Female,603,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/603_right.jpg,dry age-related macular degeneration,0,0,0,0,1,0,0,A
+51,Female,1817,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1817_left.jpg,dry age-related macular degeneration,0,0,0,0,1,0,0,A
+55,Female,1890,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1890_left.jpg,wet age-related macular degeneration,0,0,0,0,1,0,0,A
+61,Male,158,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/158_left.jpg,dry age-related macular degeneration,0,0,0,0,1,0,0,A
+67,Male,455,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/455_right.jpg,dry age-related macular degeneration,0,0,0,0,1,0,0,A
+81,Female,977,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/977_left.jpg,wet age-related macular degeneration,0,0,0,0,1,0,0,A
+67,Male,243,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/243_left.jpg,dry age-related macular degeneration,0,0,0,0,1,0,0,A
+76,Female,162,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/162_right.jpg,dry age-related macular degeneration,0,0,0,0,1,0,0,A
+67,Female,852,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/852_right.jpg,dry age-related macular degeneration,0,0,0,0,1,0,0,A
+67,Male,235,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/235_left.jpg,dry age-related macular degeneration,0,0,0,0,1,0,0,A
+70,Female,2110,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2110_left.jpg,cataract,0,0,0,1,0,0,0,C
+66,Female,2231,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2231_left.jpg,lens dust，cataract,0,0,0,1,0,0,0,C
+62,Female,1285,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1285_left.jpg,cataract,0,0,0,1,0,0,0,C
+65,Female,2174,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2174_right.jpg,cataract,0,0,0,1,0,0,0,C
+78,Male,2150,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2150_right.jpg,cataract,0,0,0,1,0,0,0,C
+44,Female,2137,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2137_right.jpg,cataract,0,0,0,1,0,0,0,C
+78,Female,2210,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2210_right.jpg,cataract,0,0,0,1,0,0,0,C
+63,Male,2133,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2133_right.jpg,cataract,0,0,0,1,0,0,0,C
+65,Female,330,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/330_left.jpg,cataract,0,0,0,1,0,0,0,C
+80,Female,2114,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2114_left.jpg,cataract,0,0,0,1,0,0,0,C
+54,Male,2153,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2153_left.jpg,cataract,0,0,0,1,0,0,0,C
+50,Female,2241,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2241_left.jpg,cataract，lens dust,0,0,0,1,0,0,0,C
+75,Male,955,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/955_right.jpg,cataract,0,0,0,1,0,0,0,C
+76,Male,2244,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2244_left.jpg,lens dust，cataract,0,0,0,1,0,0,0,C
+65,Male,2207,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2207_left.jpg,cataract,0,0,0,1,0,0,0,C
+76,Female,2105,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2105_right.jpg,cataract,0,0,0,1,0,0,0,C
+81,Female,1415,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1415_left.jpg,cataract,0,0,0,1,0,0,0,C
+55,Female,188,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/188_right.jpg,cataract,0,0,0,1,0,0,0,C
+82,Male,2212,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2212_right.jpg,cataract,0,0,0,1,0,0,0,C
+54,Female,2220,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2220_right.jpg,cataract,0,0,0,1,0,0,0,C
+44,Female,2137,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2137_left.jpg,cataract,0,0,0,1,0,0,0,C
+38,Male,2216,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2216_right.jpg,cataract,0,0,0,1,0,0,0,C
+80,Male,2243,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2243_left.jpg,cataract,0,0,0,1,0,0,0,C
+85,Male,2122,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2122_left.jpg,cataract,0,0,0,1,0,0,0,C
+74,Male,2104,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2104_right.jpg,cataract,0,0,0,1,0,0,0,C
+46,Male,2239,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2239_left.jpg,cataract,0,0,0,1,0,0,0,C
+64,Male,2240,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2240_right.jpg,cataract,0,0,0,1,0,0,0,C
+70,Male,2127,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2127_right.jpg,cataract,0,0,0,1,0,0,0,C
+52,Male,1968,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1968_left.jpg,cataract，lens dust,0,0,0,1,0,0,0,C
+45,Male,4179,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4179_left.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+52,Female,4213,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4213_left.jpg,mild nonproliferative retinopathy,0,1,0,0,0,0,0,D
+65,Female,744,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/744_left.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+65,Female,4015,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4015_left.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+69,Male,4640,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4640_left.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+73,Male,308,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/308_left.jpg,mild nonproliferative retinopathy,0,1,0,0,0,0,0,D
+58,Female,4198,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4198_left.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+69,Male,184,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/184_right.jpg,epiretinal membrane over the macula，moderate non proliferative retinopathy，lens dust,0,1,0,0,0,0,0,D
+38,Male,642,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/642_right.jpg,epiretinal membrane，moderate non proliferative retinopathy，laser spot,0,1,0,0,0,0,0,D
+64,Male,569,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/569_left.jpg,severe proliferative diabetic retinopathy,0,1,0,0,0,0,0,D
+48,Female,890,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/890_left.jpg,mild nonproliferative retinopathy,0,1,0,0,0,0,0,D
+57,Male,4617,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4617_right.jpg,mild nonproliferative retinopathy,0,1,0,0,0,0,0,D
+63,Male,4054,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4054_right.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+68,Male,448,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/448_right.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+46,Male,1138,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1138_right.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+61,Female,914,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/914_right.jpg,laser spot，moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+68,Female,1413,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1413_left.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+60,Female,412,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/412_right.jpg,proliferative diabetic retinopathy,0,1,0,0,0,0,0,D
+47,Female,121,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/121_left.jpg,epiretinal membrane，mild nonproliferative retinopathy,0,1,0,0,0,0,0,D
+69,Male,4323,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4323_left.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+70,Female,4625,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4625_right.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+64,Male,4277,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4277_left.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+62,Female,4248,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4248_left.jpg,mild nonproliferative retinopathy,0,1,0,0,0,0,0,D
+51,Male,4600,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4600_left.jpg,post retinal laser surgery，moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+54,Male,378,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/378_right.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+42,Male,4659,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4659_left.jpg,mild nonproliferative retinopathy,0,1,0,0,0,0,0,D
+63,Female,229,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/229_right.jpg,severe nonproliferative retinopathy,0,1,0,0,0,0,0,D
+49,Female,494,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/494_right.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+62,Female,1285,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1285_right.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+65,Male,4593,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4593_right.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+56,Male,442,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/442_left.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+64,Male,1106,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1106_left.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+43,Male,4530,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4530_left.jpg,severe nonproliferative retinopathy,0,1,0,0,0,0,0,D
+73,Male,3957,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3957_right.jpg,mild nonproliferative retinopathy,0,1,0,0,0,0,0,D
+52,Male,718,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/718_left.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+57,Male,4032,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4032_left.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+57,Female,551,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/551_left.jpg,severe nonproliferative retinopathy,0,1,0,0,0,0,0,D
+66,Female,4326,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4326_left.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+80,Male,64,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/64_left.jpg,diabetic retinopathy,0,1,0,0,0,0,0,D
+62,Male,3947,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3947_left.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+60,Male,2166,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2166_right.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+56,Male,4195,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4195_right.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+59,Female,4337,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4337_right.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+58,Female,627,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/627_left.jpg,moderate non proliferative retinopathy，lens dust,0,1,0,0,0,0,0,D
+45,Male,4449,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4449_left.jpg,severe nonproliferative retinopathy,0,1,0,0,0,0,0,D
+69,Female,4238,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4238_right.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+57,Female,4041,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4041_left.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+69,Female,755,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/755_left.jpg,severe nonproliferative retinopathy,0,1,0,0,0,0,0,D
+53,Female,4250,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4250_left.jpg,mild nonproliferative retinopathy,0,1,0,0,0,0,0,D
+46,Male,4344,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4344_right.jpg,severe nonproliferative retinopathy,0,1,0,0,0,0,0,D
+57,Male,4159,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4159_left.jpg,mild nonproliferative retinopathy,0,1,0,0,0,0,0,D
+60,Male,4440,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4440_right.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+54,Male,4338,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4338_left.jpg,mild nonproliferative retinopathy,0,1,0,0,0,0,0,D
+67,Male,784,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/784_right.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+59,Male,607,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/607_left.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+53,Male,4474,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4474_left.jpg,mild nonproliferative retinopathy,0,1,0,0,0,0,0,D
+64,Female,169,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/169_right.jpg,macular epiretinal membrane，moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+67,Female,4027,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4027_right.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+68,Male,74,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/74_left.jpg,laser spot，white vessel，moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+37,Male,1022,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1022_right.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+54,Male,4278,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4278_left.jpg,severe nonproliferative retinopathy,0,1,0,0,0,0,0,D
+42,Male,4688,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4688_left.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+51,Female,4481,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4481_right.jpg,mild nonproliferative retinopathy,0,1,0,0,0,0,0,D
+66,Male,3972,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3972_right.jpg,severe nonproliferative retinopathy,0,1,0,0,0,0,0,D
+53,Male,4477,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4477_right.jpg,mild nonproliferative retinopathy,0,1,0,0,0,0,0,D
+67,Male,77,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/77_left.jpg,moderate non proliferative retinopathy，myelinated nerve fibers,0,1,0,0,0,0,0,D
+47,Male,4353,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4353_right.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+56,Female,4246,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4246_right.jpg,mild nonproliferative retinopathy,0,1,0,0,0,0,0,D
+59,Male,4342,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4342_left.jpg,mild nonproliferative retinopathy,0,1,0,0,0,0,0,D
+47,Female,4301,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4301_right.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+59,Male,779,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/779_left.jpg,mild nonproliferative retinopathy,0,1,0,0,0,0,0,D
+39,Female,4511,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4511_left.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+52,Male,3987,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3987_left.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+58,Female,627,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/627_right.jpg,mild nonproliferative retinopathy，macular epiretinal membrane,0,1,0,0,0,0,0,D
+64,Male,647,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/647_left.jpg,moderate non proliferative retinopathy，laser spot,0,1,0,0,0,0,0,D
+64,Male,3958,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3958_left.jpg,mild nonproliferative retinopathy,0,1,0,0,0,0,0,D
+42,Male,4584,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4584_left.jpg,mild nonproliferative retinopathy,0,1,0,0,0,0,0,D
+53,Male,4607,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4607_right.jpg,mild nonproliferative retinopathy,0,1,0,0,0,0,0,D
+64,Male,4043,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4043_left.jpg,severe nonproliferative retinopathy,0,1,0,0,0,0,0,D
+50,Male,4448,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4448_right.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+65,Male,948,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/948_right.jpg,moderate non proliferative retinopathy，macular epiretinal membrane,0,1,0,0,0,0,0,D
+49,Female,268,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/268_right.jpg,severe proliferative diabetic retinopathy，laser spot,0,1,0,0,0,0,0,D
+56,Male,4177,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4177_right.jpg,mild nonproliferative retinopathy,0,1,0,0,0,0,0,D
+49,Male,949,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/949_left.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+56,Male,4404,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4404_right.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+65,Male,4419,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4419_left.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+56,Female,86,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/86_left.jpg,mild nonproliferative retinopathy,0,1,0,0,0,0,0,D
+39,Female,4599,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4599_left.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+65,Male,4455,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4455_left.jpg,mild nonproliferative retinopathy,0,1,0,0,0,0,0,D
+38,Female,3944,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3944_left.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+60,Male,4083,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4083_right.jpg,mild nonproliferative retinopathy,0,1,0,0,0,0,0,D
+67,Male,3949,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3949_right.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+61,Female,4561,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4561_right.jpg,mild nonproliferative retinopathy,0,1,0,0,0,0,0,D
+69,Male,4059,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4059_right.jpg,mild nonproliferative retinopathy,0,1,0,0,0,0,0,D
+69,Male,4679,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4679_left.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+67,Female,512,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/512_left.jpg,mild nonproliferative retinopathy，epiretinal membrane,0,1,0,0,0,0,0,D
+53,Male,497,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/497_right.jpg,moderate non proliferative retinopathy，laser spot,0,1,0,0,0,0,0,D
+74,Female,4280,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4280_right.jpg,severe nonproliferative retinopathy,0,1,0,0,0,0,0,D
+73,Female,4516,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4516_right.jpg,mild nonproliferative retinopathy,0,1,0,0,0,0,0,D
+52,Male,4497,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4497_left.jpg,mild nonproliferative retinopathy,0,1,0,0,0,0,0,D
+48,Male,4137,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4137_right.jpg,severe nonproliferative retinopathy,0,1,0,0,0,0,0,D
+49,Female,4547,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4547_right.jpg,severe nonproliferative retinopathy,0,1,0,0,0,0,0,D
+56,Female,881,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/881_left.jpg,mild nonproliferative retinopathy,0,1,0,0,0,0,0,D
+65,Female,157,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/157_right.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+64,Female,4153,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4153_right.jpg,mild nonproliferative retinopathy,0,1,0,0,0,0,0,D
+56,Female,177,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/177_right.jpg,laser spot，moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+53,Female,472,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/472_left.jpg,old chorioretinopathy,0,1,0,0,0,0,0,D
+44,Female,4356,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4356_right.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+40,Male,4590,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4590_left.jpg,mild nonproliferative retinopathy,0,1,0,0,0,0,0,D
+34,Male,4358,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4358_right.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+64,Male,4277,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4277_right.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+54,Female,4456,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4456_left.jpg,mild nonproliferative retinopathy,0,1,0,0,0,0,0,D
+57,Male,4134,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4134_left.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+72,Female,934,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/934_left.jpg,diabetic retinopathy,0,1,0,0,0,0,0,D
+70,Female,3994,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3994_left.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+68,Female,4357,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4357_left.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+41,Female,4258,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4258_right.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+54,Male,4563,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4563_left.jpg,mild nonproliferative retinopathy,0,1,0,0,0,0,0,D
+65,Female,1153,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1153_right.jpg,severe nonproliferative retinopathy,0,1,0,0,0,0,0,D
+55,Female,868,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/868_right.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+62,Male,201,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/201_left.jpg,lens dust，moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+49,Male,4340,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4340_right.jpg,mild nonproliferative retinopathy,0,1,0,0,0,0,0,D
+60,Male,4133,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4133_left.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+65,Female,1153,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1153_left.jpg,severe nonproliferative retinopathy,0,1,0,0,0,0,0,D
+60,Female,4347,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4347_left.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+67,Male,784,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/784_left.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+52,Male,4339,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4339_left.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+46,Male,4397,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4397_right.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+54,Male,4636,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4636_left.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+59,Female,4379,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4379_left.jpg,mild nonproliferative retinopathy,0,1,0,0,0,0,0,D
+47,Male,4396,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4396_right.jpg,mild nonproliferative retinopathy,0,1,0,0,0,0,0,D
+45,Female,4211,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4211_right.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+70,Male,386,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/386_right.jpg,moderate non proliferative retinopathy，epiretinal membrane,0,1,0,0,0,0,0,D
+66,Male,4227,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4227_left.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+48,Male,582,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/582_left.jpg,severe nonproliferative retinopathy,0,1,0,0,0,0,0,D
+60,Female,4536,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4536_right.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+64,Male,4086,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4086_left.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+49,Female,4030,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4030_left.jpg,mild nonproliferative retinopathy,0,1,0,0,0,0,0,D
+82,Male,284,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/284_left.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+80,Male,981,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/981_left.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+69,Male,533,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/533_right.jpg,severe nonproliferative retinopathy,0,1,0,0,0,0,0,D
+42,Female,2078,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2078_right.jpg,diabetic retinopathy，macular epiretinal membrane,0,1,0,0,0,0,0,D
+46,Male,4380,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4380_left.jpg,mild nonproliferative retinopathy,0,1,0,0,0,0,0,D
+58,Female,757,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/757_left.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+65,Female,4015,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4015_right.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+62,Male,415,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/415_right.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+67,Female,4295,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4295_left.jpg,mild nonproliferative retinopathy,0,1,0,0,0,0,0,D
+56,Female,760,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/760_right.jpg,old chorioretinopathy,0,1,0,0,0,0,0,D
+45,Female,4211,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4211_left.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+52,Male,4008,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4008_left.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+30,Male,546,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/546_right.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+62,Male,362,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/362_right.jpg,old chorioretinopathy,0,1,0,0,0,0,0,D
+17,Male,4392,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4392_right.jpg,mild nonproliferative retinopathy,0,1,0,0,0,0,0,D
+46,Male,3961,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3961_right.jpg,mild nonproliferative retinopathy,0,1,0,0,0,0,0,D
+35,Female,4016,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4016_left.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+63,Male,4040,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4040_left.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+56,Male,4310,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4310_left.jpg,severe nonproliferative retinopathy,0,1,0,0,0,0,0,D
+48,Male,808,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/808_left.jpg,diabetic retinopathy,0,1,0,0,0,0,0,D
+69,Male,4319,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4319_left.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+55,Female,188,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/188_left.jpg,laser spot，severe proliferative diabetic retinopathy,0,1,0,0,0,0,0,D
+57,Male,257,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/257_right.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+57,Male,544,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/544_right.jpg,moderate non proliferative retinopathy，epiretinal membrane,0,1,0,0,0,0,0,D
+67,Female,4297,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4297_right.jpg,mild nonproliferative retinopathy,0,1,0,0,0,0,0,D
+34,Male,654,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/654_right.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+49,Male,492,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/492_right.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+59,Male,4398,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4398_right.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+56,Female,4282,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4282_right.jpg,moderate non proliferative retinopathy,0,1,0,0,0,0,0,D
+59,Male,1222,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1222_left.jpg,glaucoma,0,0,1,0,0,0,0,G
+73,Male,1431,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1431_left.jpg,suspected glaucoma,0,0,1,0,0,0,0,G
+49,Male,1493,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1493_left.jpg,glaucoma,0,0,1,0,0,0,0,G
+65,Female,1436,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1436_left.jpg,glaucoma,0,0,1,0,0,0,0,G
+35,Male,1478,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1478_left.jpg,glaucoma,0,0,1,0,0,0,0,G
+77,Male,2063,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2063_left.jpg,glaucoma，lens dust,0,0,1,0,0,0,0,G
+60,Male,1421,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1421_left.jpg,suspected glaucoma,0,0,1,0,0,0,0,G
+63,Female,1374,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1374_left.jpg,glaucoma,0,0,1,0,0,0,0,G
+69,Female,1209,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1209_right.jpg,glaucoma,0,0,1,0,0,0,0,G
+70,Female,1425,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1425_right.jpg,suspected glaucoma,0,0,1,0,0,0,0,G
+68,Female,1218,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1218_left.jpg,glaucoma,0,0,1,0,0,0,0,G
+81,Male,1480,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1480_right.jpg,glaucoma,0,0,1,0,0,0,0,G
+55,Male,1267,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1267_right.jpg,glaucoma,0,0,1,0,0,0,0,G
+45,Male,1471,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1471_left.jpg,glaucoma,0,0,1,0,0,0,0,G
+50,Male,1441,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1441_left.jpg,glaucoma,0,0,1,0,0,0,0,G
+57,Male,1473,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1473_right.jpg,glaucoma,0,0,1,0,0,0,0,G
+54,Male,1967,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1967_right.jpg,glaucoma,0,0,1,0,0,0,0,G
+54,Male,583,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/583_right.jpg,glaucoma,0,0,1,0,0,0,0,G
+60,Female,1491,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1491_left.jpg,glaucoma,0,0,1,0,0,0,0,G
+73,Male,1294,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1294_right.jpg,glaucoma,0,0,1,0,0,0,0,G
+61,Female,1318,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1318_left.jpg,glaucoma,0,0,1,0,0,0,0,G
+74,Female,1327,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1327_left.jpg,glaucoma，macular epiretinal membrane,0,0,1,0,0,0,0,G
+68,Male,1215,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1215_right.jpg,glaucoma,0,0,1,0,0,0,0,G
+51,Female,1469,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1469_right.jpg,glaucoma,0,0,1,0,0,0,0,G
+70,Male,1427,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1427_right.jpg,suspected glaucoma,0,0,1,0,0,0,0,G
+62,Male,1239,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1239_left.jpg,glaucoma,0,0,1,0,0,0,0,G
+56,Female,1559,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1559_right.jpg,pathological myopia，suspected macular epimacular membrane,0,0,0,0,0,1,0,M
+71,Female,174,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/174_left.jpg,pathological myopia,0,0,0,0,0,1,0,M
+61,Male,1630,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1630_left.jpg,pathological myopia,0,0,0,0,0,1,0,M
+1,Female,1565,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1565_right.jpg,pathological myopia,0,0,0,0,0,1,0,M
+74,Male,39,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/39_left.jpg,pathological myopia,0,0,0,0,0,1,0,M
+1,Female,1600,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1600_left.jpg,pathological myopia,0,0,0,0,0,1,0,M
+56,Female,86,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/86_right.jpg,pathological myopia,0,0,0,0,0,1,0,M
+50,Female,1657,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1657_left.jpg,lens dust，pathological myopia,0,0,0,0,0,1,0,M
+73,Female,1558,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1558_left.jpg,pathological myopia,0,0,0,0,0,1,0,M
+32,Female,1652,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1652_right.jpg,pathological myopia,0,0,0,0,0,1,0,M
+62,Female,1607,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1607_right.jpg,pathological myopia,0,0,0,0,0,1,0,M
+69,Female,1573,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1573_right.jpg,pathological myopia,0,0,0,0,0,1,0,M
+65,Male,698,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/698_right.jpg,pathological myopia，lens dust,0,0,0,0,0,1,0,M
+66,Female,1613,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1613_right.jpg,pathological myopia,0,0,0,0,0,1,0,M
+73,Female,1558,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1558_right.jpg,pathological myopia,0,0,0,0,0,1,0,M
+64,Female,1527,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1527_left.jpg,pathological myopia,0,0,0,0,0,1,0,M
+69,Female,481,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/481_left.jpg,pathological myopia,0,0,0,0,0,1,0,M
+58,Female,1623,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1623_left.jpg,pathological myopia,0,0,0,0,0,1,0,M
+68,Female,1544,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1544_right.jpg,pathological myopia,0,0,0,0,0,1,0,M
+77,Female,379,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/379_left.jpg,pathological myopia,0,0,0,0,0,1,0,M
+71,Female,1624,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1624_right.jpg,pathological myopia,0,0,0,0,0,1,0,M
+62,Female,1562,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1562_right.jpg,pathological myopia,0,0,0,0,0,1,0,M
+34,Female,1578,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1578_left.jpg,pathological myopia,0,0,0,0,0,1,0,M
+62,Male,1710,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1710_left.jpg,pathological myopia,0,0,0,0,0,1,0,M
+61,Male,3059,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3059_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+80,Female,1019,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1019_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+66,Female,2911,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2911_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+67,Male,3208,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3208_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+75,Male,1423,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1423_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+58,Male,3321,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3321_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+61,Male,2340,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2340_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+37,Male,3267,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3267_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+63,Male,3440,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3440_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+69,Male,2520,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2520_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+62,Male,3112,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3112_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+67,Male,3384,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3384_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+25,Male,2808,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2808_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+54,Female,4489,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4489_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+47,Male,641,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/641_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+68,Female,1101,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1101_left.jpg,lens dust，normal fundus,1,0,0,0,0,0,0,N
+64,Female,3023,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3023_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+53,Male,2995,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2995_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+62,Female,545,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/545_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+58,Male,2618,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2618_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+62,Female,522,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/522_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+59,Female,2529,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2529_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+48,Male,3034,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3034_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+74,Male,912,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/912_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+40,Male,3421,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3421_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+67,Female,2348,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2348_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+75,Male,393,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/393_left.jpg,lens dust，normal fundus,1,0,0,0,0,0,0,N
+59,Female,4172,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4172_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+59,Female,390,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/390_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+45,Female,2943,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2943_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+49,Female,3122,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3122_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+62,Male,4239,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4239_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+64,Female,3023,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3023_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+47,Male,2674,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2674_left.jpg,lens dust，normal fundus,1,0,0,0,0,0,0,N
+55,Male,3984,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3984_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+38,Female,2905,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2905_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+58,Female,2988,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2988_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+70,Male,2466,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2466_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+28,Male,2854,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2854_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+67,Female,302,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/302_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+72,Male,3410,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3410_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+34,Female,2690,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2690_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+46,Female,2470,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2470_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+48,Male,2796,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2796_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+57,Male,2554,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2554_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+65,Female,2568,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2568_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+57,Male,370,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/370_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+56,Male,1034,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1034_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+49,Male,2548,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2548_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+62,Male,285,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/285_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+65,Female,3381,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3381_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+59,Male,2366,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2366_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+56,Female,2781,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2781_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+49,Male,3311,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3311_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+53,Male,2836,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2836_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+55,Male,2743,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2743_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+60,Female,2535,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2535_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+37,Male,503,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/503_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+55,Male,2530,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2530_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+64,Male,1610,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1610_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+70,Female,751,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/751_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+58,Male,2538,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2538_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+46,Male,3184,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3184_left.jpg,normal fundus，lens dust,1,0,0,0,0,0,0,N
+59,Female,2684,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2684_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+61,Female,3439,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3439_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+65,Female,1176,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1176_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+50,Male,1541,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1541_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+49,Male,3337,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3337_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+60,Female,3343,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3343_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+38,Male,3373,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3373_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+37,Male,2546,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2546_left.jpg,normal fundus，lens dust,1,0,0,0,0,0,0,N
+58,Male,264,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/264_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+53,Female,2955,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2955_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+79,Male,1468,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1468_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+56,Female,2701,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2701_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+52,Female,4176,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4176_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+66,Male,340,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/340_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+67,Male,2931,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2931_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+38,Female,2905,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2905_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+85,Female,2937,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2937_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+66,Female,3070,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3070_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+28,Male,91,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/91_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+61,Male,832,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/832_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+57,Female,112,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/112_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+59,Female,2820,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2820_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+54,Female,3132,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3132_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+62,Female,2405,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2405_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+62,Female,3067,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3067_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+50,Female,3370,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3370_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+52,Female,695,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/695_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+53,Male,92,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/92_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+57,Male,2780,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2780_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+69,Female,2341,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2341_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+61,Male,2599,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2599_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+73,Male,1475,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1475_right.jpg,normal fundus，lens dust,1,0,0,0,0,0,0,N
+51,Female,191,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/191_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+42,Male,432,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/432_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+65,Male,354,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/354_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+45,Female,3020,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3020_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+50,Female,80,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/80_left.jpg,lens dust，normal fundus,1,0,0,0,0,0,0,N
+69,Female,2731,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2731_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+52,Female,695,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/695_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+51,Female,2421,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2421_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+64,Female,2503,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2503_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+56,Female,3228,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3228_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+45,Female,2430,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2430_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+77,Male,2791,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2791_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+47,Male,3094,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3094_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+62,Female,3157,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3157_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+70,Male,662,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/662_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+36,Male,3371,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3371_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+67,Female,3005,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3005_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+62,Male,617,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/617_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+53,Male,2984,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2984_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+62,Male,2760,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2760_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+59,Male,3003,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3003_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+57,Female,4428,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4428_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+54,Male,2807,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2807_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+61,Male,3411,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3411_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+71,Female,3319,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3319_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+58,Male,2618,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2618_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+54,Female,3285,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3285_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+54,Male,2980,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2980_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+65,Male,2802,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2802_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+63,Female,2596,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2596_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+66,Male,276,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/276_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+60,Male,878,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/878_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+67,Female,4500,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4500_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+51,Male,2417,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2417_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+44,Male,3329,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3329_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+56,Male,2537,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2537_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+64,Female,2822,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2822_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+41,Female,4020,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4020_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+59,Male,2856,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2856_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+66,Female,3334,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3334_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+53,Male,2406,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2406_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+35,Female,2974,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2974_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+78,Male,2861,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2861_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+53,Female,437,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/437_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+51,Male,4660,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4660_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+59,Male,2823,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2823_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+66,Female,2506,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2506_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+62,Male,3159,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3159_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+61,Female,954,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/954_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+68,Female,2464,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2464_right.jpg,lens dust，normal fundus,1,0,0,0,0,0,0,N
+62,Female,2957,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2957_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+62,Female,2396,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2396_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+60,Male,3428,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3428_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+69,Female,0,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/0_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+53,Male,2879,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2879_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+85,Female,2937,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2937_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+48,Male,527,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/527_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+50,Female,2590,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2590_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+63,Female,828,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/828_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+63,Male,3113,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3113_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+62,Female,59,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/59_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+63,Male,3255,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3255_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+33,Male,27,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/27_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+71,Female,174,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/174_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+64,Female,2863,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2863_left.jpg,lens dust，normal fundus,1,0,0,0,0,0,0,N
+70,Female,2970,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2970_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+56,Male,1131,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1131_right.jpg,lens dust，normal fundus,1,0,0,0,0,0,0,N
+43,Female,3187,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3187_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+69,Female,294,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/294_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+47,Female,408,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/408_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+50,Male,1441,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1441_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+52,Male,3050,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3050_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+46,Female,3049,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3049_right.jpg,lens dust，normal fundus,1,0,0,0,0,0,0,N
+57,Female,3145,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3145_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+53,Female,2697,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2697_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+43,Female,3181,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3181_left.jpg,lens dust，normal fundus,1,0,0,0,0,0,0,N
+64,Male,3082,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3082_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+54,Female,2976,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2976_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+44,Male,524,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/524_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+41,Female,4197,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4197_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+55,Female,513,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/513_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+33,Female,1053,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1053_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+61,Male,2916,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2916_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+57,Female,3230,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3230_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+45,Female,3379,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3379_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+70,Female,2527,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2527_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+72,Male,349,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/349_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+65,Male,2864,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2864_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+47,Female,232,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/232_left.jpg,normal fundus，lens dust,1,0,0,0,0,0,0,N
+60,Female,4644,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4644_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+50,Female,2486,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2486_left.jpg,normal fundus，lens dust,1,0,0,0,0,0,0,N
+69,Male,2607,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2607_left.jpg,lens dust，normal fundus,1,0,0,0,0,0,0,N
+72,Female,2416,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2416_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+61,Female,2889,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2889_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+61,Male,2664,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2664_right.jpg,lens dust，normal fundus,1,0,0,0,0,0,0,N
+43,Female,381,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/381_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+53,Male,3273,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3273_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+58,Male,2541,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2541_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+54,Male,613,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/613_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+26,Female,1169,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1169_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+75,Male,3130,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3130_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+55,Female,2908,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2908_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+49,Male,2956,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2956_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+47,Male,2839,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2839_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+58,Female,3436,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3436_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+64,Male,3161,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3161_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+33,Male,1514,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1514_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+58,Female,3436,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3436_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+56,Female,1397,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1397_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+52,Male,638,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/638_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+24,Female,3424,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3424_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+51,Female,3263,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3263_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+62,Male,2814,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2814_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+65,Male,3054,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3054_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+65,Male,2891,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2891_left.jpg,lens dust，normal fundus,1,0,0,0,0,0,0,N
+60,Female,1080,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1080_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+46,Female,3016,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3016_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+56,Male,3287,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3287_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+72,Female,924,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/924_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+67,Male,2931,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2931_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+61,Male,2755,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2755_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+60,Male,3017,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3017_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+76,Male,3080,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3080_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+33,Male,82,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/82_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+56,Male,3309,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3309_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+57,Female,3230,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3230_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+59,Female,966,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/966_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+44,Male,2620,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2620_left.jpg,lens dust，normal fundus,1,0,0,0,0,0,0,N
+54,Female,4106,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4106_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+42,Male,2936,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2936_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+69,Female,2467,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2467_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+49,Male,1503,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1503_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+59,Male,2797,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2797_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+68,Male,2400,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2400_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+49,Male,483,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/483_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+55,Female,350,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/350_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+80,Female,2372,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2372_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+63,Male,1868,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1868_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+34,Male,2525,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2525_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+46,Female,3016,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3016_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+56,Female,2533,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2533_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+50,Male,2845,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2845_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+60,Male,724,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/724_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+75,Male,2595,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2595_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+64,Male,2977,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2977_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+47,Male,2725,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2725_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+54,Male,2442,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2442_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+35,Female,2940,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2940_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+46,Male,3391,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3391_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+58,Male,2866,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2866_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+66,Male,2379,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2379_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+67,Male,3438,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3438_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+72,Female,2615,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2615_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+65,Female,2516,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2516_left.jpg,normal fundus，lens dust,1,0,0,0,0,0,0,N
+55,Male,3277,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3277_right.jpg,lens dust，normal fundus,1,0,0,0,0,0,0,N
+51,Male,679,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/679_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+56,Male,426,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/426_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+60,Male,3313,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3313_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+33,Male,554,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/554_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+68,Female,3116,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3116_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+33,Female,2354,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2354_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+40,Male,2747,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2747_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+56,Male,979,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/979_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+69,Female,2853,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2853_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+65,Male,3443,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3443_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+57,Male,2554,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2554_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+49,Female,2662,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2662_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+61,Female,4269,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4269_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+59,Female,2770,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2770_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+63,Male,394,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/394_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+79,Male,717,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/717_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+48,Male,165,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/165_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+30,Female,2991,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2991_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+33,Female,2433,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2433_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+56,Male,3279,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3279_left.jpg,lens dust，normal fundus,1,0,0,0,0,0,0,N
+65,Male,3213,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3213_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+76,Male,2342,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2342_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+66,Female,3251,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3251_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+62,Female,2729,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2729_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+48,Female,940,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/940_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+51,Female,2645,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2645_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+60,Male,51,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/51_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+47,Male,2477,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2477_right.jpg,lens dust，normal fundus,1,0,0,0,0,0,0,N
+56,Female,2938,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2938_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+47,Female,2382,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2382_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+64,Female,2722,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2722_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+56,Male,3310,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3310_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+78,Male,1515,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1515_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+35,Male,2339,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2339_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+44,Male,2373,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2373_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+52,Female,4411,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/4411_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+64,Male,766,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/766_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+66,Female,2681,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2681_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+47,Female,121,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/121_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+56,Male,3196,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3196_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+63,Male,3169,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3169_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+45,Female,2661,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2661_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+74,Male,58,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/58_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+74,Female,908,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/908_left.jpg,lens dust，normal fundus,1,0,0,0,0,0,0,N
+39,Female,3124,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3124_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+47,Female,3207,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3207_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+47,Female,2821,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2821_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+53,Male,3221,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3221_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+72,Male,2963,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2963_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+67,Male,3438,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3438_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+69,Male,2457,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2457_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+42,Female,2700,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2700_left.jpg,lens dust，normal fundus,1,0,0,0,0,0,0,N
+55,Male,2714,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2714_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+58,Male,241,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/241_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+55,Male,3277,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3277_left.jpg,lens dust，normal fundus,1,0,0,0,0,0,0,N
+52,Male,3405,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3405_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+53,Male,2406,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/2406_left.jpg,normal fundus,1,0,0,0,0,0,0,N
+47,Male,3356,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3356_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+58,Male,1191,Right,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/1191_right.jpg,normal fundus,1,0,0,0,0,0,0,N
+71,Male,3206,Left,C:/Users/34629/TFG/archive/ODIR-5K/ODIR-5K/Training Images/3206_left.jpg,normal fundus,1,0,0,0,0,0,0,N
